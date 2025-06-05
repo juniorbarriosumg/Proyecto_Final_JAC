@@ -91,6 +91,5 @@ En esta funcion el programa te pedira que tu ingreses un numero, el cual sera la
  > [!NOTE] 
   > El programa te preguntara si deseas realizar otro proceso, si deseas continuar ingresaras una "S", en caso que desees que termine solo ingresa cualquier otro caracter
 
-# **MANUAL TECNICO**
 
 
