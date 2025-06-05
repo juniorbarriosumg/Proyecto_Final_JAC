@@ -29,4 +29,46 @@ En primer lugar, a la hora de ejecutar nuestro programa aparecera el siguiente m
 
   ![image](https://github.com/user-attachments/assets/cb598354-2d80-45ba-a453-8e074ba8fadf)
 
+  ## Funcion Resta
+   En esta funcion el programa te pedira 2 numeros, los cuales debes ingresar y mostrara el resultado de
+  la resta de los 2 numeros ingresados **(Nota: El programa te preguntara si deseas realizar otro proceso, si deseas continuar ingresaras una "S", en caso que desees que termine solo ingresa cualquier otro caracter)**
+
+![image](https://github.com/user-attachments/assets/6140db46-b8fa-4589-a39b-724927ca00df)
+
+
+## Funcion Multiplicacion
+   En esta funcion el programa te pedira 2 numeros, los cuales debes ingresar y mostrara el resultado de
+  la multiplicacion de los 2 numeros ingresados **(Nota: El programa te preguntara si deseas realizar otro proceso, si deseas continuar ingresaras una "S", en caso que desees que termine solo ingresa cualquier otro caracter)**
+
+![image](https://github.com/user-attachments/assets/9fccd349-c507-447d-a9e1-80d8d0a303c5)
+
+
+ ## Funcion Division
+   En esta funcion el programa te pedira 2 numeros, los cuales debes ingresar y mostrara el resultado de
+  la division de los 2 numeros ingresados **(Nota: El programa te preguntara si deseas realizar otro proceso, si deseas continuar ingresaras una "S", en caso que desees que termine solo ingresa cualquier otro caracter)**
+  
+![image](https://github.com/user-attachments/assets/8394010c-24e2-4e93-8001-4304663c3240)
+
+## Funcion Suma de valores de una matriz
+En esta funcion el programa te pedira en primer lugar de que dimensión deseas tu matriz, por ejemplo: si ingresas el numero 2 (tendra 2 filas y 2 columnas), de la misma manera te pedira que ingreses los numeros para rellenar la matriz, y el programa
+sumara todos los valores que hayas ingresado. **(Nota: El programa te preguntara si deseas realizar otro proceso, si deseas continuar ingresaras una "S", en caso que desees que termine solo ingresa cualquier otro caracter)**
+
+![image](https://github.com/user-attachments/assets/aa349df3-ff3d-419c-b6c3-dd0ac240219b)
+
+## Funcion Resta de valores de una matriz
+En esta funcion el programa te pedira en primer lugar de que dimensión deseas tu matriz, por ejemplo: si ingresas el numero 2 (tendra 2 filas y 2 columnas), de la misma manera te pedira que ingreses los numeros para rellenar la matriz, y el programa
+restara todos los valores que hayas ingresado. **(Nota: El programa te preguntara si deseas realizar otro proceso, si deseas continuar ingresaras una "S", en caso que desees que termine solo ingresa cualquier otro caracter)**
+
+![image](https://github.com/user-attachments/assets/f55cb429-9146-4063-a686-ce1ee6b49d47)
+
+## Funcion Suma de matrices
+
+## Funcion Resta de matrices
+
+## Funcion Piramide con numeros
+En esra funcion el programa te pedira un numero y hara una piramide/escalera con el numero de filas que ingresaste. En caso que el numero ingresado sea par, la piramide unicamente sera de numeros pares, y si el numero ingresado es impar, la piramide solo sera de numeros
+impares **(Nota: El programa te preguntara si deseas realizar otro proceso, si deseas continuar ingresaras una "S", en caso que desees que termine solo ingresa cualquier otro caracter)**
+
+![image](https://github.com/user-attachments/assets/389cf209-db16-4a32-a305-fcfe1cb6b81f)
+
 
