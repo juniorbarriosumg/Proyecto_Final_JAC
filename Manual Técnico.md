@@ -43,6 +43,8 @@ Espacio en disco: minimo de 100 MB.
 - **resultado** (Definida como tipo REAL) Utilizada para el resultado de las operaciones
 - **tamajac** (Definida como tipo ENTERO) Utilizada para saber el tamaño deseado para la matriz
 - **matriz** (Definida como tipo ENTERO) Utilizada para realizar una DIMENSION
+- **matrizsuma** (Definida como ENTERO) Utilizada como 3ra matriz para sumarlas
+- **matrizresta** (Definida como REAL) Utilizada como 3ra matriz para restarlas
 - **f** (Definida como tipo ENTERO) Utiliada para las funciones PARA, utlizadas en el programa
 - **c** (Definida como tipo ENTERO) Utiliada para las funciones PARA, utlizadas en el programa
 - **suma** (Definida como tipo ENTERO) Utilizada para el resultado de la suma de las matrices
