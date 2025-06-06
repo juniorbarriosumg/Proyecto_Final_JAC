@@ -28,6 +28,7 @@ En primer lugar, a la hora de ejecutar nuestro programa aparecera el siguiente m
    ## Funcion Suma
   En esta funcion el programa te pedira 2 numeros, los cuales debes ingresar y mostrara el resultado de
   la suma de los 2 numeros ingresados 
+  
   ![image](https://github.com/user-attachments/assets/cb598354-2d80-45ba-a453-8e074ba8fadf)
    > [!NOTE] 
   > El programa te preguntara si deseas realizar otro proceso, si deseas continuar ingresaras una "S", en caso que desees que termine solo ingresa cualquier otro caracter
@@ -52,6 +53,7 @@ En primer lugar, a la hora de ejecutar nuestro programa aparecera el siguiente m
  ## Funcion Division
    En esta funcion el programa te pedira 2 numeros, los cuales debes ingresar y mostrara el resultado de
   la division de los 2 numeros ingresados 
+  
 ![image](https://github.com/user-attachments/assets/8394010c-24e2-4e93-8001-4304663c3240)
  > [!NOTE] 
   > El programa te preguntara si deseas realizar otro proceso, si deseas continuar ingresaras una "S", en caso que desees que termine solo ingresa cualquier otro caracter
@@ -75,12 +77,24 @@ restara todos los valores que hayas ingresado.
   > El programa te preguntara si deseas realizar otro proceso, si deseas continuar ingresaras una "S", en caso que desees que termine solo ingresa cualquier otro caracter
 
 ## Funcion Suma de matrices
+En esta funcion el programa pedira en, primer lugar que ingrese la dimension de las 2 matrices, para despues sumar las 2 matrices, creando una tercera matriz.
+
+![image](https://github.com/user-attachments/assets/278f0caf-ad35-4cd8-85b6-963f615f6bc0)
+> [!NOTE] 
+  > El programa te preguntara si deseas realizar otro proceso, si deseas continuar ingresaras una "S", en caso que desees que termine solo ingresa cualquier otro caracter
 
 ## Funcion Resta de matrices
+En esta funcion el programa pedira en, primer lugar que ingrese la dimension de las 2 matrices, para despues restar las 2 matrices, creando una tercera matriz.
+
+![image](https://github.com/user-attachments/assets/b8141374-1c6f-4268-ac3d-53402997bd75)
+
+> [!NOTE] 
+  > El programa te preguntara si deseas realizar otro proceso, si deseas continuar ingresaras una "S", en caso que desees que termine solo ingresa cualquier otro caracter
 
 ## Funcion Piramide con numeros
 En esra funcion el programa te pedira un numero y hara una piramide/escalera con el numero de filas que ingresaste. En caso que el numero ingresado sea par, la piramide unicamente sera de numeros pares, y si el numero ingresado es impar, la piramide solo sera de numeros
 impares 
+
 ![image](https://github.com/user-attachments/assets/389cf209-db16-4a32-a305-fcfe1cb6b81f)
  > [!NOTE] 
   > El programa te preguntara si deseas realizar otro proceso, si deseas continuar ingresaras una "S", en caso que desees que termine solo ingresa cualquier otro caracter
